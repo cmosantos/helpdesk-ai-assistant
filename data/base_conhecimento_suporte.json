@@ -1,0 +1,173 @@
+[
+  {
+    "id": "outlook_nao_abre",
+    "tema": "Outlook não abre ou apresenta erro",
+    "palavras_chave": [
+      "outlook",
+      "email",
+      "e-mail",
+      "correio",
+      "não abre",
+      "travando",
+      "erro",
+      "caixa postal"
+    ],
+    "resposta": "Entendi sua dúvida sobre Outlook. Tente reiniciar o aplicativo, verificar a conexão com a internet e abrir o Outlook pelo navegador. Se o problema continuar, observe se aparece alguma mensagem de erro, reinicie o computador e abra um chamado para análise do suporte.",
+    "perguntas_apoio": [
+      "A mensagem de erro aparece ao abrir o Outlook ou ao enviar e receber e-mails?",
+      "O Outlook Web também apresenta problema?",
+      "O problema acontece somente com seu usuário ou com outras pessoas também?"
+    ],
+    "quando_escalar": "Escalar quando houver erro persistente, falha de autenticação, perfil corrompido, caixa postal inacessível ou impacto em múltiplos usuários."
+  },
+  {
+    "id": "teams_acesso",
+    "tema": "Problemas de acesso ou uso do Microsoft Teams",
+    "palavras_chave": [
+      "teams",
+      "reunião",
+      "chamada",
+      "microfone",
+      "camera",
+      "câmera",
+      "áudio",
+      "login",
+      "não entra"
+    ],
+    "resposta": "Entendi sua dúvida sobre Microsoft Teams. Verifique se você está usando a conta corporativa correta, teste o acesso pelo navegador e confirme se câmera, microfone e áudio estão permitidos no dispositivo. Se o problema continuar, reinicie o Teams e informe o erro exibido ao suporte.",
+    "perguntas_apoio": [
+      "O problema acontece no aplicativo instalado ou também no navegador?",
+      "Você consegue acessar outros serviços do Microsoft 365?",
+      "O problema é de login, áudio, câmera ou participação em reunião?"
+    ],
+    "quando_escalar": "Escalar quando o usuário não conseguir autenticar, houver erro de licença, falha de conta ou problema recorrente em reuniões corporativas."
+  },
+  {
+    "id": "mfa_authenticator",
+    "tema": "Problemas com MFA e Microsoft Authenticator",
+    "palavras_chave": [
+      "mfa",
+      "authenticator",
+      "autenticador",
+      "código",
+      "notificação",
+      "celular",
+      "telefone",
+      "duplo fator",
+      "2fa"
+    ],
+    "resposta": "Entendi sua dúvida sobre autenticação multifator. Verifique se o celular está com internet, se o Microsoft Authenticator está instalado e se as notificações estão permitidas. Se você trocou de aparelho, perdeu acesso ao aplicativo ou não recebe códigos, acione o suporte para redefinição segura do MFA.",
+    "perguntas_apoio": [
+      "Você trocou de celular recentemente?",
+      "A notificação não chega ou o código não é aceito?",
+      "Você ainda tem acesso ao aplicativo Microsoft Authenticator?"
+    ],
+    "quando_escalar": "Escalar sempre que for necessário redefinir método de autenticação, validar identidade ou alterar configurações de MFA."
+  },
+  {
+    "id": "senha_acesso",
+    "tema": "Senha, bloqueio de conta e acesso corporativo",
+    "palavras_chave": [
+      "senha",
+      "bloqueado",
+      "bloqueada",
+      "login",
+      "acesso",
+      "conta",
+      "usuário",
+      "usuario",
+      "expirada"
+    ],
+    "resposta": "Entendi sua dúvida sobre acesso. Confirme se está digitando usuário e senha corretamente e verifique se a tecla Caps Lock está ativada. Se a senha expirou, a conta foi bloqueada ou você não consegue redefinir o acesso, será necessário abrir um chamado para validação e desbloqueio seguro.",
+    "perguntas_apoio": [
+      "Aparece mensagem de senha incorreta ou conta bloqueada?",
+      "Você consegue acessar pelo navegador?",
+      "Sua senha foi alterada recentemente?"
+    ],
+    "quando_escalar": "Escalar quando houver bloqueio de conta, redefinição de senha, suspeita de acesso indevido ou falha de autenticação."
+  },
+  {
+    "id": "onedrive_sincronizacao",
+    "tema": "OneDrive não sincroniza arquivos",
+    "palavras_chave": [
+      "onedrive",
+      "sincronizar",
+      "sincronização",
+      "arquivo",
+      "nuvem",
+      "sharepoint",
+      "pasta",
+      "backup"
+    ],
+    "resposta": "Entendi sua dúvida sobre OneDrive. Verifique se o ícone do OneDrive aparece próximo ao relógio do Windows, confirme se há conexão com a internet e veja se existe alguma mensagem de erro de sincronização. Caso o arquivo esteja com conflito, nome inválido ou sem permissão, registre um chamado para análise.",
+    "perguntas_apoio": [
+      "O erro acontece com todos os arquivos ou apenas um arquivo específico?",
+      "O OneDrive mostra algum ícone vermelho ou mensagem de erro?",
+      "O arquivo está em pasta pessoal, SharePoint ou Teams?"
+    ],
+    "quando_escalar": "Escalar quando houver falha persistente de sincronização, perda de acesso a arquivos, conflito recorrente ou suspeita de perda de dados."
+  },
+  {
+    "id": "computador_lento",
+    "tema": "Computador lento ou travando",
+    "palavras_chave": [
+      "lento",
+      "travando",
+      "computador",
+      "notebook",
+      "desempenho",
+      "memória",
+      "cpu",
+      "reiniciar",
+      "windows"
+    ],
+    "resposta": "Entendi sua dúvida sobre lentidão no computador. Feche programas que não estão em uso, reinicie o equipamento e verifique se há muitas abas ou aplicativos abertos. Se a lentidão continuar, informe quando o problema começou e abra um chamado para verificação de desempenho, atualizações e possíveis falhas no equipamento.",
+    "perguntas_apoio": [
+      "A lentidão começou hoje ou já acontece há vários dias?",
+      "O problema ocorre ao abrir algum sistema específico?",
+      "O equipamento foi reiniciado recentemente?"
+    ],
+    "quando_escalar": "Escalar quando a lentidão for recorrente, impedir o trabalho, envolver tela azul, superaquecimento, falha de disco ou suspeita de malware."
+  },
+  {
+    "id": "impressora",
+    "tema": "Problemas de impressão",
+    "palavras_chave": [
+      "impressora",
+      "imprimir",
+      "impressão",
+      "fila",
+      "papel",
+      "toner",
+      "scanner",
+      "kyocera"
+    ],
+    "resposta": "Entendi sua dúvida sobre impressão. Verifique se a impressora está ligada, com papel, sem alerta no painel e se a impressora correta foi selecionada. Se houver documento preso na fila, tente cancelar e enviar novamente. Se o erro continuar, abra um chamado informando o nome da impressora e a mensagem exibida.",
+    "perguntas_apoio": [
+      "A impressora aparece disponível no computador?",
+      "Outras pessoas conseguem imprimir nela?",
+      "Existe alguma mensagem no painel da impressora?"
+    ],
+    "quando_escalar": "Escalar quando a impressora estiver offline, com erro físico, fila travada, falha de driver ou indisponibilidade para vários usuários."
+  },
+  {
+    "id": "abertura_chamado",
+    "tema": "Como abrir um chamado de suporte",
+    "palavras_chave": [
+      "chamado",
+      "ticket",
+      "suporte",
+      "atendimento",
+      "solicitação",
+      "incidente",
+      "ajuda"
+    ],
+    "resposta": "Para abrir um chamado de suporte, informe seu nome, setor, equipamento afetado, sistema com problema, mensagem de erro e impacto na sua rotina. Quanto mais claro for o relato, mais rápido o suporte conseguirá analisar e resolver a solicitação.",
+    "perguntas_apoio": [
+      "Qual sistema ou equipamento está com problema?",
+      "O problema impede totalmente o trabalho ou é uma dúvida pontual?",
+      "Você possui print ou mensagem de erro?"
+    ],
+    "quando_escalar": "Toda solicitação que exigir alteração de acesso, análise técnica, intervenção no equipamento ou validação de identidade deve virar chamado."
+  }
+]

@@ -1,0 +1,9 @@
+id,entrada,tema_esperado,comportamento_esperado
+1,Meu Outlook não abre,Outlook não abre ou apresenta erro,Orientar testes iniciais e abertura de chamado se persistir
+2,Não consigo entrar na reunião do Teams,Problemas de acesso ou uso do Microsoft Teams,"Orientar teste no app, navegador, conta, áudio e câmera"
+3,Troquei de celular e o Authenticator não funciona,Problemas com MFA e Microsoft Authenticator,Orientar suporte para redefinição segura do MFA
+4,Minha senha está bloqueada,"Senha, bloqueio de conta e acesso corporativo",Orientar validação e desbloqueio pelo suporte
+5,Meu OneDrive não sincroniza arquivos,OneDrive não sincroniza arquivos,"Orientar verificar ícone, internet e mensagens de erro"
+6,Meu computador está muito lento,Computador lento ou travando,"Orientar fechar programas, reiniciar e abrir chamado se persistir"
+7,A impressora não imprime,Problemas de impressão,Orientar checagens básicas e abertura de chamado se continuar
+8,Como configurar um servidor de produção?,Fora do escopo,Informar que não há informação suficiente e recomendar chamado
